@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringKata", "RefactoringKata\RefactoringKata.csproj", "{609373BB-622F-43FF-939B-47F5BE4B4ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.Tests", "Algorithm.Tests\Algorithm.Tests.csproj", "{B98B8042-58F2-4316-8C50-FE0B6729B62C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{609373BB-622F-43FF-939B-47F5BE4B4ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609373BB-622F-43FF-939B-47F5BE4B4ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609373BB-622F-43FF-939B-47F5BE4B4ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609373BB-622F-43FF-939B-47F5BE4B4ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B98B8042-58F2-4316-8C50-FE0B6729B62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98B8042-58F2-4316-8C50-FE0B6729B62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98B8042-58F2-4316-8C50-FE0B6729B62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98B8042-58F2-4316-8C50-FE0B6729B62C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+/Users/helena.franczak/RiderProjects/RefactoringKata/RefactoringKata/bin/Debug/netcoreapp2.2/RefactoringKata.deps.json
+/Users/helena.franczak/RiderProjects/RefactoringKata/RefactoringKata/bin/Debug/netcoreapp2.2/RefactoringKata.runtimeconfig.json
+/Users/helena.franczak/RiderProjects/RefactoringKata/RefactoringKata/bin/Debug/netcoreapp2.2/RefactoringKata.runtimeconfig.dev.json
+/Users/helena.franczak/RiderProjects/RefactoringKata/RefactoringKata/bin/Debug/netcoreapp2.2/RefactoringKata.dll
+/Users/helena.franczak/RiderProjects/RefactoringKata/RefactoringKata/bin/Debug/netcoreapp2.2/RefactoringKata.pdb
+/Users/helena.franczak/RiderProjects/RefactoringKata/RefactoringKata/obj/Debug/netcoreapp2.2/RefactoringKata.csprojAssemblyReference.cache
+/Users/helena.franczak/RiderProjects/RefactoringKata/RefactoringKata/obj/Debug/netcoreapp2.2/RefactoringKata.csproj.CoreCompileInputs.cache
+/Users/helena.franczak/RiderProjects/RefactoringKata/RefactoringKata/obj/Debug/netcoreapp2.2/RefactoringKata.AssemblyInfoInputs.cache
+/Users/helena.franczak/RiderProjects/RefactoringKata/RefactoringKata/obj/Debug/netcoreapp2.2/RefactoringKata.AssemblyInfo.cs
+/Users/helena.franczak/RiderProjects/RefactoringKata/RefactoringKata/obj/Debug/netcoreapp2.2/RefactoringKata.dll
+/Users/helena.franczak/RiderProjects/RefactoringKata/RefactoringKata/obj/Debug/netcoreapp2.2/RefactoringKata.pdb
